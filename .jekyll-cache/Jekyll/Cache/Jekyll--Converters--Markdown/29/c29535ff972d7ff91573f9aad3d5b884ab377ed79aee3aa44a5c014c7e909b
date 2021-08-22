@@ -1,0 +1,16 @@
+I"ä<p>Code coverage is measured with respect to the individual lines of code.</p>
+
+<p>Yes, each line.</p>
+
+<p>There are syntax lines such as those that contain curly braces.</p>
+
+<p>Then there are logic lines and branch lines consisting of for loop declerations,
+if statements, assignments, calculations, and so onâ€¦</p>
+
+<p>A simple formula for calculating code coverages is as follows:</p>
+
+<p>code_coverage = non-syntax lines with tests / all non-syntax lines</p>
+
+<p>Farewell.</p>
+
+:ET
